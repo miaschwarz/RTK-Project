@@ -1,0 +1,7 @@
+{
+  "name": "github-user-search",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
